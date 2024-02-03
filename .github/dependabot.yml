@@ -55,8 +55,6 @@ updates:
     versioning-strategy: increase
     schedule:
       interval: "weekly"
-    commit-message:
-      prefix: "Bump NodeJS autoinstrumentation deps"
     groups:
       js-patch:
         update-types:
