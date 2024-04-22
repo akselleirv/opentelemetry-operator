@@ -28,8 +28,8 @@ require (
 	github.com/prometheus/prometheus v0.48.1
 	github.com/shirou/gopsutil v3.21.11+incompatible
 	github.com/spf13/pflag v1.0.5
-	github.com/stretchr/testify v1.8.4
-	go.opentelemetry.io/collector/featuregate v0.77.0
+	github.com/stretchr/testify v1.9.0
+	go.opentelemetry.io/collector/featuregate v1.6.0
 	go.opentelemetry.io/otel v1.22.0
 	go.opentelemetry.io/otel/exporters/otlp/otlpmetric/otlpmetrichttp v0.45.0
 	go.opentelemetry.io/otel/metric v1.22.0
